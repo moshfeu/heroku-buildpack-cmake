@@ -7,7 +7,7 @@ Usage:
     heroku buildpacks:set https://github.com/Starkast/heroku-buildpack-cmake
     
     # if you use multiple buildpacks
-    heroku buildpacks:add --index 2 https://github.com/Starkast/heroku-buildpack-cmake
+    heroku buildpacks:add --index 2 https://github.com/moshfeu/heroku-buildpack-cmake
 
 See the Heroku documentation for more information:
 
