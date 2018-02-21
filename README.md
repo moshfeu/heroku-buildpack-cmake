@@ -4,7 +4,7 @@ Yet another [Heroku Buildpack][Buildpacks] for [CMake](https://cmake.org/), but 
 
 Usage:
 
-    heroku buildpacks:set https://github.com/Starkast/heroku-buildpack-cmake
+    heroku buildpacks:set https://github.com/moshfeu/heroku-buildpack-cmake
     
     # if you use multiple buildpacks
     heroku buildpacks:add --index 2 https://github.com/moshfeu/heroku-buildpack-cmake
